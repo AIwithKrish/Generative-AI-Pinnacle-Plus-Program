@@ -1,0 +1,16 @@
+# macOS / archive junk
+.DS_Store
+__MACOSX/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# Files over GitHub's 100 MB limit
+5 Build RAG Based applications/3 Building End-to-End GenAI Applications/Notebooks.zip
+12 Work with Diffusion Models/1 Getting started with Stable Diffusion/Course 11_ Getting started with Stable Diffusion.pdf
+12 Work with Diffusion Models/3 Advanced Stable Diffusion Techniques/Course 13_ Advanced Stable Diffusion Techniques.pdf
